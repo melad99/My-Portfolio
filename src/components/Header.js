@@ -8,8 +8,8 @@ const Header =() =>{
     return(
         <div>
             <div>
-                <h3 style={style}><Link to="/">Home</Link></h3>
-                <h3 style={style}><Link to = "/Projects">Projects</Link></h3>
+                <h3 style={style}><Link to="/My-Portfolio">Home</Link></h3>
+                <h3 style={style}><Link to = "/Project">Projects</Link></h3>
             </div>
         </div>
 
