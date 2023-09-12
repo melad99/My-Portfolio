@@ -6,7 +6,7 @@ import SOCIAL_PROFILES from "../data/socialProfiles";
 const SocialProfiles = () => {
     return (
         <div style={{ textAlign: "center" }}>
-            <h3>تواصل معي</h3>
+            <h3>Contact Me</h3>
             {
                     SOCIAL_PROFILES.map(PROFILE => {
                         return <SocialProfile socialProfile={PROFILE} />

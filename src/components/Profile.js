@@ -21,7 +21,7 @@ class Profile extends React.Component {
             <div>
                 <img src={profilePicture} className="profile" alt="profile" />
                 <h1>Hi</h1>
-                <p>my name is Melad & I'm Software Engineer </p>
+                <p>I'm Melad Alsaleh | Software Engineer </p>
                 {this.state.displayBio? (<div>
                     <p>Passoniate Front-end Developer</p>
                     <p>Currently learning ReactJs</p>

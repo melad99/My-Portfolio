@@ -14,16 +14,14 @@ const Qualifications = () =>{
                 <h3>Intro tp progamming Nanodegree</h3>
                <a href='confirm.udacity.com/e/b53629b4-f95c-11ed-bffc-dbe2d770e5e9'><p>Udacity</p></a> 
             </li>
-            
-            {/* <h2>Certificates</h2>
+            <hr/>
+
+            <h2>Recent Experience</h2>
             <li>
-                <h3>google it support</h3>
-                <p>Google</p>
-                <h3>intro to programming Nanodegree</h3>
-                <p>Udacity</p>
-                <h3>IBM IT Support</h3>
-                <p>IBM</p>
-            </li> */}
+                <h4>IS Help Desk Assistant At UNRWA</h4>
+                <h4>Front-End developer Intern At Unit One</h4>
+                <h4>web sprecialist at american academy</h4>
+            </li>
             <hr/>
         </div>
     )
